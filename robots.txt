@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-yzyjrk.date-me.pro/sitemap.xml
